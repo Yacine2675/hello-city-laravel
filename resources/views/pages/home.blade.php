@@ -4,6 +4,7 @@
 
 
 @section('content')
+    <img src="images/paris-flag.png" alt="Paris Flag" width="300">
     
    
         <h1>Hello from Paris!</h1>
